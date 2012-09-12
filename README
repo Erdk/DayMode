@@ -1,0 +1,5 @@
+DayMode
+
+Simple Android application, which turns airplane mode on if is it enabled.
+Created for using with applications like 'Smart Connect', which behaves like
+cron: could start apps on specyfic events (like time of day, etc.).
